@@ -1,4 +1,3 @@
-```python
 import json
 import sys
 from pathlib import Path
@@ -36,4 +35,3 @@ if r2_score < 0:
     sys.exit(1)
 
 print("QUALITY GATE PASSED")
-```
